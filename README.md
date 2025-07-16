@@ -1,2 +1,1 @@
-# texas
-Working on Texas Instruments mikrocontroller projects.
+Hi, this is a test text for Texas repo.
